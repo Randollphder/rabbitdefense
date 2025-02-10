@@ -1,0 +1,9 @@
+{
+    "RabbitEnable": false,
+    "RabbitLang": ["Russian"],
+    "RabbitTime": ["Yekaterinburg"],
+    "RabbitLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
