@@ -1,9 +1,9 @@
 {
-    "RabbitEnable": false,
-    "RabbitLang": ["Russian"],
-    "RabbitTime": ["Yekaterinburg"],
+    "RabbitEnable": true,
+    "RabbitLang": ["Portuguese"],
+    "RabbitTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "RabbitLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wfwna.life/v3/2618/fortune-rabbit?p=h83x"]}
     ]
  }
