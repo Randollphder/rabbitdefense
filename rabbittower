@@ -1,5 +1,5 @@
 {
-    "RabbitEnable": false,
+    "RabbitEnable": true,
     "RabbitLang": ["Portuguese"],
     "RabbitTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "RabbitLink": 
